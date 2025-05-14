@@ -1,0 +1,31 @@
+/* .fixedContainer{
+    position: fixed;
+    top: 50px;
+    right: 10px;
+    background-color: coral;
+    border: 2px solid crimson;
+}
+
+.fixedContainer p{
+    color: black;
+}
+
+.staticContainer{
+    padding: 10px;
+    border: 2px solid black;
+    background-color: yellow;
+} */
+
+.relativeContainer{
+    position: relative;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    
+}
+
+.absoluteContainer{
+    position: absolute;
+    top: 0px;
+    left: 2px;
+    border: 2px solid black;
+}

@@ -1,0 +1,272 @@
+
+.mainContainer{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background-color: white;
+
+}
+.title{
+    
+    display: inline-block;
+    margin-right: 950px;
+    font: 15px verdana;
+    margin-left: 15px;
+}
+.projects, .about, .contact{
+    
+    display: inline-block;
+    margin-top: 30px;
+    margin: 11px;
+    font: 15px verdana;
+
+}
+
+
+.brimgContainer img{
+    position: relative;
+    display: inline-block;
+    margin-top: 50px;
+    width: 100%;
+    height: 80%;
+    z-index: -1;
+    
+}
+.brTitleContainer{
+    position: absolute;
+    top: 450px;
+    left: 630px;
+    font: 35px verdana;
+}
+
+h1{
+    font: 24px Arial;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+
+.summerHouse1{
+
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+}
+.summerAbsolute{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    font: 15px verdana;
+}
+
+
+.brickHouse1{
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+}
+.brickAbsolute{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    font: 15px verdana;
+
+}
+.renovated1{
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+}
+.renovatedAbsolute{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    font: 15px verdana;
+}
+.barnHouse1{
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+}
+.barnAbsolute{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    font: 15px verdana;
+}
+
+img{
+    width: 345px;
+    height: 220px;
+}
+
+
+.houseContainer1,.houseContainer2 {
+    position: relative;
+    width: 97%;
+    margin-left: 25px;
+    padding-top: 5px;
+    margin-right: 10px;
+}
+
+.summerHouse2{
+
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+}
+.summerAbsolute1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    font: 15px verdana;
+}
+
+
+.brickHouse2{
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+}
+.brickAbsolute1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    font: 15px verdana;
+
+}
+.renovated2{
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+}
+.renovatedAbsolute1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    font: 15px verdana;
+}
+.barnHouse2{
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+}
+.barnAbsolute1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    font: 15px verdana;
+}
+
+.aboutPContainer{
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    font: 15px verdana;
+}
+.infoAbout{
+    margin-bottom: 30px;
+}
+
+
+.johndoe , .janedeo, .mikerose , .danstar {
+    display: inline-block;
+    width: 24%;
+    margin: 3px;
+    
+}
+.profile img{
+    width: 100%;
+}
+.profile h3{
+    font: 15px verdana;
+}
+.profile span{
+    background: blanchedalmond;
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-left: 2px;
+}
+
+
+.contactContainer{
+    margin-top: 80px;
+    margin-left: 22px;
+    margin-right: 22px;
+}
+.infocontactContainer h1{
+    margin-left: 10px;
+}
+.infocontactContainer h3{
+    font: 15px verdana ;
+    margin-left: 20px;
+}
+.text textarea{
+    display: inline-block;
+    font: 15px verdana ;
+    border: 2px solid grey;
+    width: 96%;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+.text h3{
+    width: 10%;
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+    font: 15px verdana;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+
+}
+
+.finalimg{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.finalimg img{
+    width: 100%;
+    height: 60%;
+}
+
+
+.powerCss{
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    padding-bottom: 20px;
+    margin-top: 5px;
+    
+}
+.powerCss h3{
+    margin-top: 1px;
+    padding-top: 50px;
+    margin-left: 650px;
+}
