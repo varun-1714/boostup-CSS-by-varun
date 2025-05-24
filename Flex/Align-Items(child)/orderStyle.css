@@ -1,0 +1,23 @@
+.Container{
+    background-color: cadetblue;
+    display: flex;
+    align-content: stretch;
+    justify-content: center;
+}
+
+.Container>div{
+    line-height: 75px;
+    margin: 10px;
+    width: 100px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+
+
+}
+
+.five div{
+    flex-grow: 8;
+}
